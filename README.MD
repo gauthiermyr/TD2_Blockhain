@@ -1,10 +1,10 @@
-#TD2 - Bitcoin
-##Start
+# TD2 - Bitcoin
+##vStart
 
 run `python td2.py` to run the CLI application
 
-##Commands
-###Menu
+## Commands
+### Menu
 
  - `1`: Generate a valid mnemonic phrase
  - `2`: Import a mnemoic phrase
